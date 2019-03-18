@@ -16,18 +16,16 @@ Now supporting also the following services:
 
 
 
-Installation instructions:
+## Installation instructions
 
-This extension is now on the Chrome Web Store, and this is the preferred install method. Get it [HERE!](https://chrome.google.com/webstore/detail/play-music-lyrics-fetcher/phnnoaooookpaffnminadcajmghibbbc)
+This extensions no longer in the Chrome store. The only method that seems to work for the current
+version of Chrome (72 at time of writing), is to load it is an unpacked extension in Development
+mode:
 
-
-- Alternative method 1 - Precompiled extension:
- - Simply install the extension.crx file located on /bin
-
-- Alternative method 2 - From source (guaranteed to be the latest, might have something broken tho):
- - Enable developer mode on Google Chrome's extensions window.
- - select "Load unpacked extension"
- - Choose the "source" directory
+  1. Clone or download the code repository
+  2. Enable developer mode on Google Chrome's extensions window.
+  3. Select "Load unpacked extension"
+  4. Choose the "source" directory
 
 ---
 This is an ad-free extension. If you wish to support the development, my bitcoin address is [1NiUwpF8BgoKqDtQn9quxFLimacTmSyZSq](bitcoin://1NiUwpF8BgoKqDtQn9quxFLimacTmSyZSq)
